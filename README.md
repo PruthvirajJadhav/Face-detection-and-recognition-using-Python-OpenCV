@@ -21,7 +21,7 @@ Also put the file lbpcascade_frontalface.xml in the same location as the noteboo
 
 1.
 
-![Alt text](results/1.png?raw=true "Pruthviraj")
+![Alt text](Results/1.PNG?raw=true "Pruthviraj")
 
 
 
