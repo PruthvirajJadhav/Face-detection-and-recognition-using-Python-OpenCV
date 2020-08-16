@@ -12,8 +12,9 @@ Also put the file lbpcascade_frontalface.xml in the same location as the noteboo
 
 
 #Steps
-1.Install Python 3.7 and install opencv 
-2.Generate and keep the dataset for training purpose of model
-3.Detect faces from the dataset and feed the data to train the model Local binary patterns histograms (LBPH) Face Recognizer
-4.Once training is done feed the test images and see the results
+1. Install Python 3.7 and install opencv 
+2. Generate and keep the dataset for training purpose of model
+3. Detect faces from the dataset and feed the data to train the model Local binary patterns histograms (LBPH) Face Recognizer
+4. Once training is done feed the test images and see the results
+
 
